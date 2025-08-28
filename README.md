@@ -40,6 +40,11 @@ Password: 1337 <br>
 
 Feel free to fork and contribute by submitting a pull request.<br>
 
+<h2>License</h2><br>
+
+This project is licensed under the MIT License.<br>
+<br>
+
 <h2>Landing Page</h2>
 
 <img width="1874" height="957" alt="image" src="https://github.com/user-attachments/assets/56c64ada-d8f3-4e16-82d3-0c9a7f0b72b3" /> <br>
