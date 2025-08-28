@@ -36,7 +36,30 @@ Email: power@user.com <br>
 Password: 1337 <br>
 <br>
 
-
 <h2>Contribution</h2><br>
 
 Feel free to fork and contribute by submitting a pull request.<br>
+
+<h2>Landing Page</h2>
+
+<img width="1874" height="957" alt="image" src="https://github.com/user-attachments/assets/56c64ada-d8f3-4e16-82d3-0c9a7f0b72b3" /> <br>
+
+<h2>Login</h2>
+
+<img width="1842" height="942" alt="image" src="https://github.com/user-attachments/assets/a903b025-93fa-4498-b13c-c4ce1cf738b6" /> <br>
+
+
+<h2>User Dashboard</h2>
+
+<img width="1863" height="962" alt="image" src="https://github.com/user-attachments/assets/5783603b-0738-4f5d-8026-3c09fa9d40f6" /> <br>
+
+<h2>Admin Dashboard</h2>
+
+<img width="1868" height="967" alt="image" src="https://github.com/user-attachments/assets/fe2d7391-da15-4808-8b79-9edd6184816c" /> <br>
+
+
+
+
+
+
+
